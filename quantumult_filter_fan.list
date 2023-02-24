@@ -1,1 +1,8 @@
 # NAME: 自用
+# HOST / 域名匹配 / 例如：www.google.com
+# HOST-SUFFIX / 域名后缀匹配 / 例如：google.com
+# HOST-KEYWORD / 域名关键字匹配 / 例如：google
+# USER-AGENT / 用户代理匹配 / 例如：*abc?
+# IP-CIDR / IP匹配 / 例如：192.168.0.1/24
+# IP6-CIDR / IPV6
+# GEOIP / IP数据库匹配 / 例如：US
