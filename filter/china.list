@@ -15,6 +15,3 @@ host, www.hxyyds.top, direct
 host, gateway.icloud.com, direct
 host, www.hjtnt.link, direct
 host-suffix, apple.com, direct
-host-suffix, sgameglobal.com, 全球加速
-host-suffix, intlgame.com, 全球加速
-host, yun.iosbx.top, direct
