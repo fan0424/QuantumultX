@@ -4,5 +4,11 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,openai.io
+DOMAIN-SUFFIX,ai21.com
+DOMAIN-SUFFIX,api.ai21.io
+DOMAIN-SUFFIX,davinci.inferentia.ai
+DOMAIN-SUFFIX,model-server.inferentia.ai
+
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
