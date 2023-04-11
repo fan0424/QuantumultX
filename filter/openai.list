@@ -10,5 +10,17 @@ DOMAIN-SUFFIX,api.ai21.io
 DOMAIN-SUFFIX,davinci.inferentia.ai
 DOMAIN-SUFFIX,model-server.inferentia.ai
 
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN,cdn.auth0.com
+DOMAIN,openaiapi-site.azureedge.net
+
+IP-CIDR,104.196.64.0/18,no-resolve
+IP-CIDR,35.224.16.0/20,no-resolve
+IP-CIDR,35.192.0.0/12,no-resolve
+IP-CIDR,35.208.0.0/13,no-resolve
+IP-CIDR,35.224.0.0/16,no-resolve
