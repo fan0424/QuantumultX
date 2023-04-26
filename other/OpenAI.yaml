@@ -27,7 +27,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,intercom.io
 
-  - HOST-SUFFIX, vimeo.com
-  - HOST-SUFFIX, vimeocdn.com
-  - HOST-SUFFIX, hcaptcha.com
-  - HOST-SUFFIX, akamaized.com
+  - DOMAIN-SUFFIX, vimeo.com
+  - DOMAIN-SUFFIX, vimeocdn.com
+  - DOMAIN-SUFFIX, hcaptcha.com
+  - DOMAIN-SUFFIX, akamaized.com
