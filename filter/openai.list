@@ -14,6 +14,11 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
 
+HOST-SUFFIX, vimeo.com
+HOST-SUFFIX, vimeocdn.com
+HOST-SUFFIX, hcaptcha.com
+HOST-SUFFIX, akamaized.com
+
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN,cdn.auth0.com
