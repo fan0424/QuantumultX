@@ -7,5 +7,5 @@
 # IP6-CIDR / IPV6
 # GEOIP / IP数据库匹配 / 例如：US
 
-host-suffix, ipinfo.io
-host-suffix, whoer.net
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,whoer.net
