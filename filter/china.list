@@ -16,3 +16,4 @@ host, gateway.icloud.com, direct
 host, www.hjtnt.link, direct
 host-suffix, apple.com, direct
 host-suffix, ipinfo.io
+host-suffix, whoer.net
