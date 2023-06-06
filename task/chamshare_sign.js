@@ -19,11 +19,11 @@ const myRequest = {
 };
 
 $task.fetch(myRequest).then(response => {
-    const body = JSON.parse(response.body);
-    if(body.code === 0){
-        $notify("长泰签到", "🎉 签到成功", body.msg)
+    const result = JSON.parse(response.body);
+    if(result.code === 0){
+        $notify("长泰签到", "🎉 签到成功", result.msg)
     }else{
-        $notify("长泰签到", "🎉 重复签到", body.msg)
+        $notify("长泰签到", "🎉 重复签到", result.msg)
     }
     console.log("长泰结果：" + response.body);
     $done();
