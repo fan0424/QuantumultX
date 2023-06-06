@@ -19,11 +19,7 @@ const myRequest = {
 };
 
 $task.fetch(myRequest).then(response => {
-    if(response.code == 0){
-        console.log("🎉 长泰签到成功");
-    }else{
-        console.log("❌ 长泰签到失败\n" + response.msg);
-    }
+    console.log("🎉 长泰签到成功");
     $done();
 }, reason => {
     console.log("❌ 长泰签到异常\n" + reason.error);
