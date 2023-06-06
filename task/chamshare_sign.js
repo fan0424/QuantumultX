@@ -19,11 +19,16 @@ const myRequest = {
 };
 
 $task.fetch(myRequest).then(response => {
-    $notify("长泰签到", "🎉 签到成功", response.body)
-    console.log("🎉 长泰签到成功\n" + response.body);
+    const body = JSON.parse(data);
+    if(body.code == '0'){
+        $notify("长泰签到", "🎉 签到成功", body.msg)
+    }else{
+        $notify("长泰签到", "🎉 重复签到", body.msg)
+    }
+    console.log("长泰结果：" + response.body);
     $done();
 }, reason => {
     $notify("长泰签到", "❌ 签到异常", reason.error)
-    console.log("❌ 长泰签到异常\n" + reason.error);
+    console.log("长泰签到异常：" + reason.error);
     $done();
 });
