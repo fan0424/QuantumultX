@@ -26,6 +26,6 @@ $task.fetch(myRequest).then(response => {
     }
     $done();
 }, reason => {
-    console.log(reason.error);
+    console.log("❌ 长泰签到异常\n" + reason.error);
     $done();
 });
