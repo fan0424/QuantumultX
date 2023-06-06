@@ -20,7 +20,7 @@ const myRequest = {
 
 $task.fetch(myRequest).then(response => {
     const body = JSON.parse(data);
-    if(body.code == '0'){
+    if(body.code === 0){
         $notify("长泰签到", "🎉 签到成功", body.msg)
     }else{
         $notify("长泰签到", "🎉 重复签到", body.msg)
