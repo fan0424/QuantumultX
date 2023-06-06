@@ -19,10 +19,11 @@ const myRequest = {
 };
 
 $task.fetch(myRequest).then(response => {
-    $notify("长泰签到", "签到成功", response.body)
+    $notify("长泰签到", "🎉 签到成功", response.body)
     console.log("🎉 长泰签到成功\n" + response.body);
     $done();
 }, reason => {
+    $notify("长泰签到", "❌ 签到异常", reason.error)
     console.log("❌ 长泰签到异常\n" + reason.error);
     $done();
 });
