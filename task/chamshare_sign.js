@@ -19,6 +19,7 @@ const myRequest = {
 };
 
 $task.fetch(myRequest).then(response => {
+    $notify("长泰签到", "签到成功", response.body)
     console.log("🎉 长泰签到成功\n" + response.body);
     $done();
 }, reason => {
