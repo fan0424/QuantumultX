@@ -19,7 +19,7 @@ const myRequest = {
 };
 
 $task.fetch(myRequest).then(response => {
-    console.log("🎉 长泰签到成功: " + response.body.msg);
+    console.log("🎉 长泰签到成功\n" + response.body);
     $done();
 }, reason => {
     console.log("❌ 长泰签到异常\n" + reason.error);
