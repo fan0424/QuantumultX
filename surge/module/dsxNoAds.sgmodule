@@ -1,0 +1,6 @@
+#!name=去开屏广告 大师兄
+#!desc=需要开启mitm tcp 大师兄
+[General]
+force-http-engine-hosts =  %APPEND% sdk.alibaba.com.ailbaba.me
+[URL Rewrite]
+^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/(dsx|xgapp)\.php\/v\d\/(top_notice\?|version|advert\?position=[^2]+) - reject
