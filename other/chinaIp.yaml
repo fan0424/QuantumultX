@@ -1,2 +1,6 @@
+# NAME: customer china ip
+# AUTHOR: fan0424
 payload:
   - DOMAIN-SUFFIX,wheatek.com
+  - DOMAIN-SUFFIX,jidrop.com
+  - DOMAIN-SUFFIX,snapdrop.net
