@@ -15,3 +15,7 @@ host, www.hxyyds.top, direct
 host, gateway.icloud.com, direct
 host, www.hjtnt.link, direct
 host-suffix, apple.com, direct
+host-suffix, app.thwlqy.com, direct
+host-suffix, tapuniverse.com, direct
+host-keyword, oracle.com, direct
+host-keyword, oraclecloud.com, direct
