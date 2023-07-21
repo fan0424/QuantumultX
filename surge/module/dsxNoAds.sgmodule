@@ -1,4 +1,4 @@
-#!name=去开屏广告 大师兄
+#!name=大师兄去开屏广告 
 #!desc=需要开启mitm tcp 大师兄
 [General]
 force-http-engine-hosts =  %APPEND% sdk.alibaba.com.ailbaba.me
