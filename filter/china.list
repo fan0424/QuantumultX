@@ -20,3 +20,6 @@ host-suffix, tapuniverse.com, direct
 host-keyword, oracle.com, direct
 host-keyword, oraclecloud.com, direct
 host-suffix, api.techmall.chamshare.cn, direct
+host-suffix, ucweb.com, direct
+host-suffix, gov.cn, direct
+host-suffix, iios.fun, direct
