@@ -53,26 +53,19 @@ https://raw.githubusercontent.com/axcsz/Collect/master/Surge/Module/ADG/adg.sgmo
 ### 网易云去广告
 https://raw.githubusercontent.com/Keywos/rule/main/module/wyy.sgmodule
 
-### 酷我纯净版SVIP（圈x）
-https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.confqx
-
-
 ### 彩云天气
 https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/CaiYunTianQi.sgmodule
-
-### 微信读书
-https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/WeiXinDuShu.sgmodule
-
-### 喜马拉雅
-https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/XiMaLaYa.sgmodule
 
 ### 小程序净化合集
 https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/XiaoChengXuJingHua.sgmodule
 
+
+
 ### 广告必须死（圈x）
 https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/MyBlockAds.conf
 
-
+### 酷我纯净版SVIP（圈x）
+https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
 
 
 ## surge懒人配置
