@@ -1,0 +1,25 @@
+#!name=QX 微信读书
+#!desc=https://github.com/WeiRen0/Scripts/blob/main/wxds.js
+
+# 🔗 模块链接
+#SUBSCRIBED https://script.hub/file/_start_/https://raw.githubusercontent.com/WeiRen0/Scripts/main/wxds.js/_end_/qx_weiren_wxds.sgmodule?jsc=.&n=QX%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%2B%E4%BC%9F%E4%BA%BA&type=qx-rewrite&target=surge-module
+
+
+[Script]
+
+#微信读书
+wxds_14 = type=http-response, pattern=^http[s]?:\/\/(i|res)\.weread\.qq.com\/(login|pay\/balance|book\/chapterInfos|user\/profile\?articleBookId|upload\?type\=avatar).*$, requires-body=true, max-size=3145728, script-path=http://script.hub/convert/_start_/https://raw.githubusercontent.com/WeiRen0/Scripts/main/wxds.js/_end_/wxds.js?type=qx-script&target=surge-script, timeout=60, script-update-interval=0
+
+replaceBody_15 = type=http-request, pattern=^http[s]?:\/\/(i\.weread|rmonitor)\.qq\.com\/(login|).*$, requires-body=true, max-size=3145728, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, timeout=60, argument=""deviceId" : "[^"]+->"deviceId":"8b024b09b8b9ccb1dc6bf030158e02fb"
+
+[Map Local]
+
+^http[s]?:\/\/i\.weread\.qq\.com\/device\/logout data="https://raw.githubusercontent.com/mieqq/mieqq/master/reject-200.txt"
+
+^http[s]?:\/\/i\.weread\.qq\.com\/updateConfig data="https://raw.githubusercontent.com/mieqq/mieqq/master/reject-200.txt"
+
+^http[s]?:\/\/res\.weread\.qq.com\/upload\?type\=avatar data="https://raw.githubusercontent.com/mieqq/mieqq/master/reject-200.txt"
+
+[MITM]
+
+hostname = %APPEND% *.weread.qq.com,rmonitor.qq.com

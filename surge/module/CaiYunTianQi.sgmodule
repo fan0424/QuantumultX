@@ -1,0 +1,14 @@
+#!name=彩云天气
+#!desc=Qx转换，原文：https://github.com/WeiRen0/Scripts/blob/main/cytq.js
+
+# 🔗 模块链接
+#SUBSCRIBED http://script.hub/file/_start_/https://raw.githubusercontent.com/WeiRen0/Scripts/main/cytq.js/_end_/qx_weiren_cytq.sgmodule?jsc=.&n=QX%20%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94%2B%E4%BC%9F%E4%BA%BA&type=qx-rewrite&target=surge-module
+
+
+[Script]
+
+cytq_13 = type=http-response, pattern=^http[s]?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/v2\/user.*$, requires-body=true, max-size=3145728, script-path=http://script.hub/convert/_start_/https://raw.githubusercontent.com/WeiRen0/Scripts/main/cytq.js/_end_/cytq.js?type=qx-script&target=surge-script, timeout=60, script-update-interval=0
+
+[MITM]
+
+hostname = %APPEND% *.caiyunapp.*,*cyapi*
