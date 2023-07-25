@@ -10,6 +10,12 @@ https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.
 ### Script Hub
 https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule
 
+### TestFlight区域限制解除 
+https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/TestFlight/Moore/TestFlight.sgmodule
+
+### 通用设置增强
+https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.sgmodule
+
 ### 京东比价
 https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/JD_Price/Moore/JD_Price.sgmodule
 
@@ -20,6 +26,7 @@ https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/dsxNoAds
 https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/smzdm/Moore/smzdm.sgmodule
 
 ### Bilibili净化
+https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule
 https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Bilibili/Moore/Bilibili.sgmodule
 
 ### 微信解除链接限制
@@ -65,6 +72,7 @@ https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/XiaoChen
 https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/MyBlockAds.conf
 
 ### 酷我纯净版SVIP（圈x）
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Surge.sgmodule
 https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
 
 
