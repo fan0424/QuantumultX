@@ -41,8 +41,17 @@ https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.sgmodule
 ### Spotify
 https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.module
 
+### 高徳去广告
+https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodule
 
+### 广告 & 常用软件去广告合集
+https://raw.githubusercontent.com/axcsz/Collect/master/Surge/Module/ADG/adg.sgmodule
 
+### 网易云去广告
+https://raw.githubusercontent.com/Keywos/rule/main/module/wyy.sgmodule
+
+### 酷我纯净版SVIP
+https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
 
 
 ## surge懒人配置
