@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/XiMaLaYa
 https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/XiaoChengXuJingHua.sgmodule
 
 ### 广告必须死（圈x）
-
+https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/MyBlockAds.conf
 
 
 
