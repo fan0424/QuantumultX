@@ -7,6 +7,9 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule
 ### 圈x转surge
 https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule
 
+### Script Hub
+https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule
+
 ### 京东比价
 https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/JD_Price/Moore/JD_Price.sgmodule
 
@@ -50,8 +53,26 @@ https://raw.githubusercontent.com/axcsz/Collect/master/Surge/Module/ADG/adg.sgmo
 ### 网易云去广告
 https://raw.githubusercontent.com/Keywos/rule/main/module/wyy.sgmodule
 
-### 酷我纯净版SVIP
-https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
+### 酷我纯净版SVIP（圈x）
+https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.confqx
+
+
+### 彩云天气
+https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/CaiYunTianQi.sgmodule
+
+### 微信读书
+https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/WeiXinDuShu.sgmodule
+
+### 喜马拉雅
+https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/XiMaLaYa.sgmodule
+
+### 小程序净化合集
+https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/XiaoChengXuJingHua.sgmodule
+
+### 广告必须死（圈x）
+
+
+
 
 
 ## surge懒人配置
