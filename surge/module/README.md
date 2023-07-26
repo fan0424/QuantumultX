@@ -3,6 +3,8 @@
 
 ### Sub-store
 https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule
+#### 凌晨1点开始每24个小时同步(需搭配上面一起使用):
+https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Sub-Store/Moore/24hours.sgmodule
 
 ### 圈x转surge
 https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule
