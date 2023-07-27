@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/axcsz/Collect/master/Surge/Module/ADG/adg.sgmo
 https://raw.githubusercontent.com/Keywos/rule/main/module/wyy.sgmodule
 
 ### 彩云天气
-https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/CaiYunTianQi.sgmodule
+https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/caiyun.module
 
 ### 小程序净化合集
 https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/XiaoChengXuJingHua.sgmodule
