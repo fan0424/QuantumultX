@@ -1,7 +1,7 @@
 
 ## surge模块收集
 
-### Sub-store（仓库：https://github.com/sub-store-org/Sub-Store）
+### Sub-store（仓库：https://github.com/sub-store-org/Sub-Store ）
 https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule
 
 #### 凌晨1点开始每24个小时同步(需搭配上面一起使用):
