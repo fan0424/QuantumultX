@@ -77,7 +77,11 @@ https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/cloudmusic.snip
 ### 彩云天气（圈x）
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/cytq.js
 
+### 芒果tv（圈x）
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/MGTV.js
 
+### 喜马拉雅（圈x）
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/XMVIPTY3.js
 
 
 ## surge懒人配置
