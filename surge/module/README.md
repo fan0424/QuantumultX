@@ -60,15 +60,8 @@ https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodu
 ### 广告 & 常用软件去广告合集
 https://raw.githubusercontent.com/axcsz/Collect/master/Surge/Module/ADG/adg.sgmodule
 
-### 网易云去广告
-https://raw.githubusercontent.com/Keywos/rule/main/module/wyy.sgmodule
-
-### 彩云天气
-https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/caiyun.module
-
 ### 小程序净化合集
 https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/XiaoChengXuJingHua.sgmodule
-
 
 
 ### 广告必须死（圈x）
@@ -77,6 +70,14 @@ https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/MyBlockAds.conf
 ### 酷我纯净版SVIP（圈x）
 https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Surge.sgmodule
 https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
+
+### 网易云解锁（圈x）
+https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/cloudmusic.snippet
+
+### 彩云天气（圈x）
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/cytq.js
+
+
 
 
 ## surge懒人配置
