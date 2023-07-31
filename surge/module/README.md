@@ -3,6 +3,8 @@
 
 ### Sub-store（仓库：https://github.com/sub-store-org/Sub-Store ）
 https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule
+#### 去除内存溢出报错
+https://raw.githubusercontent.com/fan0424/QuantumultX/main/surge/module/Sub-Store.sgmodule
 
 #### 凌晨1点开始每24个小时同步(需搭配上面一起使用):
 https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Sub-Store/Moore/24hours.sgmodule
