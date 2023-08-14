@@ -79,7 +79,9 @@ https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/bdmap.snippet
 https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/amap.snippet
 
 
-### 酷我纯净版SVIP（圈x）
+### 酷我纯净版SVIP
+https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/KWYY/kwyy.sgmodule
+#### 圈x版
 https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Surge.sgmodule
 https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
 
